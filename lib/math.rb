@@ -24,6 +24,6 @@ modulo
 end
 
 def square_root(num)
-square_root.sqrt(num)
+Math.sqrt(num)
 
 end
