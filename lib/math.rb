@@ -4,8 +4,8 @@ p addition
 end
 
 def subtraction(num1, num2)
-subtraction = (num2 - num1)
-p subtraction
+subtraction = (num1 - num2)
+subtraction
 end
 
 def division(num1, num2)
