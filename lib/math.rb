@@ -24,6 +24,6 @@ modulo
 end
 
 def square_root(num)
-square_root = (num**2)
+square_root = (num**num)
 square_root
 end
